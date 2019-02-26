@@ -28,12 +28,14 @@ change?
 
 
 What are some situations when branches would be helpful in keeping your 
-history
-organized?
+history 
+organized?  How would branches help?
+ - Testing new functions or creaing different variations of your code.
+ - You can keep your master copy unchanged while you test new ideas.
 
 
 
-How would branches help?
+
 
 How do the diagrams help you visualize the branch 
 structure?
