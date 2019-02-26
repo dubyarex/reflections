@@ -45,10 +45,10 @@ structure?
 
 
 What is the result of merging two branches together? 
+ - It combines two branches into one unifed branch.
 
 
-
-Why do we represent it in
+Why do we represent it in 
 the diagram the way we do?
 
 
