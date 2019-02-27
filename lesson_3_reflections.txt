@@ -5,3 +5,12 @@ Why might you want to always pull changes manually rather than having Git automa
 stay up-to-date with your remote repository?
  - If your remote repository is public or shared, someone could make changes that you do
    not want.  Having control over pulling those new commits protects your local repository.
+
+Describe the differences between forks, clones, and branches. When would you use one
+instead of another?
+ - Forks are clones of other GitHub repositories.  It give you the ability to use a
+   repository originally made by someone else.  You can edit the clone without changing
+   the original repository, but there is still a link crediting the original repository
+   and owner.
+ - Clones are duplicates of a local or remote repository onto your local machine.
+ - Branches are named paths inside of a repository.
