@@ -14,3 +14,6 @@ instead of another?
    and owner.
  - Clones are duplicates of a local or remote repository onto your local machine.
  - Branches are named paths inside of a repository.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+ - So you can work on it offline.
